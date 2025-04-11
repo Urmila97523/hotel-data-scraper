@@ -46,5 +46,5 @@ The scraped data is visualized using Power BI to analyze pricing, location, revi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hotel-data-scraper.git
+   git clone https://github.com/Urmila97523/hotel-data-scraper.git
    cd hotel-data-scraper
